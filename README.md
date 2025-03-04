@@ -1,25 +1,35 @@
+Description
 
-Installation information
-=======
+Mod Requires: Immersive Engineering
 
-This template repository can be directly cloned to get you started with a new
-mod. Simply create a new repository cloned from this one, by following the
-instructions provided by [GitHub](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template).
+This Mod allows Garden Cloche of Immersive Engineering to grow minerals.
 
-Once you have your clone, simply open the repository in the IDE of your choice. The usual recommendation for an IDE is either IntelliJ IDEA or Eclipse.
+Minecraft: Iron, Coal, Gold, Redstone, Lapis Lazuli, Diamond, Emerald, Ancient Debris;
 
-If at any point you are missing libraries in your IDE, or you've run into problems you can
-run `gradlew --refresh-dependencies` to refresh the local cache. `gradlew clean` to reset everything 
-{this does not affect your code} and then start the process again.
+Create: Copper and Zinc can be planted!
 
-Mapping Names:
-============
-By default, the MDK is configured to use the official mapping names from Mojang for methods and fields 
-in the Minecraft codebase. These names are covered by a specific license. All modders should be aware of this
-license. For the latest license text, refer to the mapping file itself, or the reference copy here:
-https://github.com/NeoForged/NeoForm/blob/main/Mojang.md
+The seed is the corresponding mineral ingot, and the soil is the corresponding mineral block (except for some special ore planting). The growth time is uniformly one minute. The production quantity is 2 to 3, and the product is something that falls after mining the corresponding mineral ore.
+___________________________________________________________________________________________________________________________________________________________________________________________________________________________
+Minerals that support Mod
 
-Additional Resources: 
-==========
-Community Documentation: https://docs.neoforged.net/  
-NeoForged Discord: https://discord.neoforged.net/
+Of course, this Mod also supports ore from other Mods.
+
+Minecraft
+Create
+Mekanism
+Immersive Engineering
+All the Ores
+Powah! (Rearchitected)
+Allthemodium
+Applied Energistics 2
+Mystical Agriculture
+Ender IO
+Mystical Agradditions
+Actually Additions
+Extended AE
+___________________________________________________________________________________________________________________________________________________________________________________________________________________________
+IMPORTANT:
+
+It is recommended to use JEI to view all added minerals.
+___________________________________________________________________________________________________________________________________________________________________________________________________________________________
+Discord -> [Discord]([https://discord.gg/JbUSenKsWr]).
