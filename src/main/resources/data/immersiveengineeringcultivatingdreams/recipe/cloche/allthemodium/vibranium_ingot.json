@@ -1,0 +1,19 @@
+{
+  "type": "immersiveengineering:cloche",
+  "input": {
+    "item": "allthemodium:vibranium_ingot"
+  },
+  "render": {
+    "type": "immersiveengineering:generic",
+    "block": "allthemodium:vibranium_ore"
+  },
+  "results": [
+    {
+      "item": "allthemodium:vibranium_ingot"
+    }
+  ],
+  "soil": {
+    "item": "allthemodium:vibranium_block"
+  },
+  "time": 480
+}

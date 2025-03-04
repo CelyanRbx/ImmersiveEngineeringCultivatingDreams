@@ -1,0 +1,19 @@
+{
+  "type": "immersiveengineering:cloche",
+  "input": {
+    "item": "minecraft:echo_shard"
+  },
+  "render": {
+    "type": "immersiveengineering:generic",
+    "block": "minecraft:sculk"
+  },
+  "results": [
+    {
+      "item": "minecraft:echo_shard"
+    }
+  ],
+  "soil": {
+    "item": "minecraft:sculk"
+  },
+  "time": 480
+}

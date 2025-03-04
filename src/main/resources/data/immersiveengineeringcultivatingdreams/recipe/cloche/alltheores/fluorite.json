@@ -1,0 +1,19 @@
+{
+  "type": "immersiveengineering:cloche",
+  "input": {
+    "item": "alltheores:fluorite"
+  },
+  "render": {
+    "type": "immersiveengineering:generic",
+    "block": "alltheores:fluorite_ore"
+  },
+  "results": [
+    {
+      "item": "alltheores:fluorite"
+    }
+  ],
+  "soil": {
+    "item": "alltheores:fluorite_block"
+  },
+  "time": 480
+}

@@ -1,0 +1,19 @@
+{
+  "type": "immersiveengineering:cloche",
+  "input": {
+    "item": "mekanism:fluorite_gem"
+  },
+  "render": {
+    "type": "immersiveengineering:generic",
+    "block": "mekanism:fluorite_ore"
+  },
+  "results": [
+    {
+      "item": "mekanism:fluorite_gem"
+    }
+  ],
+  "soil": {
+    "item": "mekanism:block_fluorite"
+  },
+  "time": 480
+}

@@ -1,0 +1,19 @@
+{
+  "type": "immersiveengineering:cloche",
+  "input": {
+    "item": "create:zinc_ingot"
+  },
+  "render": {
+    "type": "immersiveengineering:generic",
+    "block": "create:zinc_block"
+  },
+  "results": [
+    {
+      "item": "create:zinc_ingot"
+    }
+  ],
+  "soil": {
+    "item": "create:zinc_block"
+  },
+  "time": 480
+}

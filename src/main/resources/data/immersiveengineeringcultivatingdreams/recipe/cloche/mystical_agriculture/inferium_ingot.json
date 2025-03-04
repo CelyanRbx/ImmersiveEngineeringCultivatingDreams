@@ -1,0 +1,25 @@
+{
+  "type": "immersiveengineering:cloche",
+  "input": {
+    "item": "mysticalagriculture:inferium_ingot"
+  },
+  "render": {
+    "type": "immersiveengineering:generic",
+    "block": "mysticalagriculture:inferium_block"
+  },
+  "results": [
+    {
+      "item": "mysticalagriculture:inferium_ingot"
+    },
+    {
+      "item": "mysticalagriculture:inferium_gemstone"
+    },
+    {
+      "item": "mysticalagriculture:inferium_essence"
+    }
+  ],
+  "soil": {
+    "item": "mysticalagriculture:inferium_block"
+  },
+  "time": 480
+}

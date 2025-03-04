@@ -1,0 +1,19 @@
+{
+  "type": "immersiveengineering:cloche",
+  "input": {
+    "item": "alltheores:iridium_ingot"
+  },
+  "render": {
+    "type": "immersiveengineering:generic",
+    "block": "alltheores:iridium_ore"
+  },
+  "results": [
+    {
+      "item": "alltheores:iridium_ingot"
+    }
+  ],
+  "soil": {
+    "item": "alltheores:iridium_block"
+  },
+  "time": 480
+}

@@ -1,0 +1,19 @@
+{
+  "type": "immersiveengineering:cloche",
+  "input": {
+    "item": "ae2:silicon"
+  },
+  "render": {
+    "type": "immersiveengineering:generic",
+    "block": "extendedae:silicon_block"
+  },
+  "results": [
+    {
+      "item": "ae2:silicon"
+    }
+  ],
+  "soil": {
+    "item": "extendedae:silicon_block"
+  },
+  "time": 480
+}

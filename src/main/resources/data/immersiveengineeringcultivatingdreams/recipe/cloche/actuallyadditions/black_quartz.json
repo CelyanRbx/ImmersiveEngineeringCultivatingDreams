@@ -1,0 +1,19 @@
+{
+  "type": "immersiveengineering:cloche",
+  "input": {
+    "item": "actuallyadditions:black_quartz"
+  },
+  "render": {
+    "type": "immersiveengineering:generic",
+    "block": "actuallyadditions:black_quartz_block"
+  },
+  "results": [
+    {
+      "item": "actuallyadditions:black_quartz"
+    }
+  ],
+  "soil": {
+    "item": "actuallyadditions:black_quartz_block"
+  },
+  "time": 480
+}

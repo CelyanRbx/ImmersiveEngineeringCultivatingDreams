@@ -1,0 +1,19 @@
+{
+  "type": "immersiveengineering:cloche",
+  "input": {
+    "item": "alltheores:silver_ingot"
+  },
+  "render": {
+    "type": "immersiveengineering:generic",
+    "block": "alltheores:silver_ore"
+  },
+  "results": [
+    {
+      "item": "alltheores:silver_ingot"
+    }
+  ],
+  "soil": {
+    "item": "alltheores:silver_block"
+  },
+  "time": 480
+}

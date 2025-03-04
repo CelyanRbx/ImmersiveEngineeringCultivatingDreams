@@ -1,0 +1,19 @@
+{
+  "type": "immersiveengineering:cloche",
+  "input": {
+    "item": "powah:crystal_nitro"
+  },
+  "render": {
+    "type": "immersiveengineering:generic",
+    "block": "powah:nitro_crystal_block"
+  },
+  "results": [
+    {
+      "item": "powah:crystal_nitro"
+    }
+  ],
+  "soil": {
+    "item": "powah:nitro_crystal_block"
+  },
+  "time": 480
+}

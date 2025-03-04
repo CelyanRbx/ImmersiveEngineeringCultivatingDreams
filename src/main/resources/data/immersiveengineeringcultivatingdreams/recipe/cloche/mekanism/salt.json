@@ -1,0 +1,19 @@
+{
+  "type": "immersiveengineering:cloche",
+  "input": {
+    "item": "mekanism:salt"
+  },
+  "render": {
+    "type": "immersiveengineering:generic",
+    "block": "mekanism:block_salt"
+  },
+  "results": [
+    {
+      "item": "mekanism:salt"
+    }
+  ],
+  "soil": {
+    "item": "mekanism:block_salt"
+  },
+  "time": 480
+}

@@ -1,0 +1,19 @@
+{
+  "type": "immersiveengineering:cloche",
+  "input": {
+    "item": "actuallyadditions:palis_crystal"
+  },
+  "render": {
+    "type": "immersiveengineering:generic",
+    "block": "actuallyadditions:palis_crystal_block"
+  },
+  "results": [
+    {
+      "item": "actuallyadditions:palis_crystal"
+    }
+  ],
+  "soil": {
+    "item": "actuallyadditions:palis_crystal_block"
+  },
+  "time": 480
+}

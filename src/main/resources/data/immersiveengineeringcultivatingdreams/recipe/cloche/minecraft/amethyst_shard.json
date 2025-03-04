@@ -1,0 +1,19 @@
+{
+  "type": "immersiveengineering:cloche",
+  "input": {
+    "item": "minecraft:amethyst_shard"
+  },
+  "render": {
+    "type": "immersiveengineering:generic",
+    "block": "minecraft:amethyst_cluster"
+  },
+  "results": [
+    {
+      "item": "minecraft:amethyst_shard"
+    }
+  ],
+  "soil": {
+    "item": "minecraft:amethyst_block"
+  },
+  "time": 480
+}

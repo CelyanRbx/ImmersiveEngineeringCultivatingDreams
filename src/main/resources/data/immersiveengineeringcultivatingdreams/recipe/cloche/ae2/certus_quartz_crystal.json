@@ -1,0 +1,19 @@
+{
+  "type": "immersiveengineering:cloche",
+  "input": {
+    "item": "ae2:certus_quartz_crystal"
+  },
+  "render": {
+    "type": "immersiveengineering:generic",
+    "block": "ae2:quartz_cluster"
+  },
+  "results": [
+    {
+      "item": "ae2:certus_quartz_crystal"
+    }
+  ],
+  "soil": {
+    "item": "ae2:quartz_block"
+  },
+  "time": 480
+}

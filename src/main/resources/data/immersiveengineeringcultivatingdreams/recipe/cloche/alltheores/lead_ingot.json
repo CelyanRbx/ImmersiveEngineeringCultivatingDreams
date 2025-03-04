@@ -1,0 +1,19 @@
+{
+  "type": "immersiveengineering:cloche",
+  "input": {
+    "item": "alltheores:lead_ingot"
+  },
+  "render": {
+    "type": "immersiveengineering:generic",
+    "block": "alltheores:lead_ore"
+  },
+  "results": [
+    {
+      "item": "alltheores:lead_ingot"
+    }
+  ],
+  "soil": {
+    "item": "alltheores:lead_block"
+  },
+  "time": 480
+}

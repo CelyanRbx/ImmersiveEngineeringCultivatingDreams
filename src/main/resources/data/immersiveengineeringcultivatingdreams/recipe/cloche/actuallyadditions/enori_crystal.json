@@ -1,0 +1,19 @@
+{
+  "type": "immersiveengineering:cloche",
+  "input": {
+    "item": "actuallyadditions:enori_crystal"
+  },
+  "render": {
+    "type": "immersiveengineering:generic",
+    "block": "actuallyadditions:enori_crystal_block"
+  },
+  "results": [
+    {
+      "item": "actuallyadditions:enori_crystal"
+    }
+  ],
+  "soil": {
+    "item": "actuallyadditions:enori_crystal_block"
+  },
+  "time": 480
+}

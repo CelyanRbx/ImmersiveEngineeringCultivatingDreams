@@ -1,0 +1,25 @@
+{
+  "type": "immersiveengineering:cloche",
+  "input": {
+    "item": "mysticalagriculture:ice_seeds"
+  },
+  "render": {
+    "type": "immersiveengineering:generic",
+    "block": "mysticalagriculture:ice_crop"
+  },
+  "results": [
+    {
+      "item": "mysticalagriculture:ice_essence"
+    },
+    {
+      "item": "mysticalagriculture:fertilized_essence"
+    },
+    {
+      "item": "mysticalagriculture:ice_seeds"
+    }
+  ],
+  "soil": {
+    "item": "mysticalagriculture:inferium_farmland"
+  },
+  "time": 480
+}

@@ -1,0 +1,25 @@
+{
+  "type": "immersiveengineering:cloche",
+  "input": {
+    "item": "mysticalagradditions:insanium_ingot"
+  },
+  "render": {
+    "type": "immersiveengineering:generic",
+    "block": "mysticalagradditions:insanium_block"
+  },
+  "results": [
+    {
+      "item": "mysticalagradditions:insanium_ingot"
+    },
+    {
+      "item": "mysticalagradditions:insanium_gemstone"
+    },
+    {
+      "item": "mysticalagradditions:insanium_essence"
+    }
+  ],
+  "soil": {
+    "item": "mysticalagradditions:insanium_block"
+  },
+  "time": 480
+}

@@ -1,0 +1,19 @@
+{
+  "type": "immersiveengineering:cloche",
+  "input": {
+    "item": "alltheores:platinum_ingot"
+  },
+  "render": {
+    "type": "immersiveengineering:generic",
+    "block": "alltheores:platinum_ore"
+  },
+  "results": [
+    {
+      "item": "alltheores:platinum_ingot"
+    }
+  ],
+  "soil": {
+    "item": "alltheores:platinum_block"
+  },
+  "time": 480
+}

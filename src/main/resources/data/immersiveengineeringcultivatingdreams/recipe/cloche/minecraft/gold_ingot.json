@@ -1,0 +1,19 @@
+{
+  "type": "immersiveengineering:cloche",
+  "input": {
+    "item": "minecraft:gold_ingot"
+  },
+  "render": {
+    "type": "immersiveengineering:generic",
+    "block": "minecraft:gold_ore"
+  },
+  "results": [
+    {
+      "item": "minecraft:gold_ingot"
+    }
+  ],
+  "soil": {
+    "item": "minecraft:gold_block"
+  },
+  "time": 480
+}

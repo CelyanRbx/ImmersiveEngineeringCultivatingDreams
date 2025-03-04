@@ -1,0 +1,19 @@
+{
+  "type": "immersiveengineering:cloche",
+  "input": {
+    "item": "alltheores:sulfur"
+  },
+  "render": {
+    "type": "immersiveengineering:generic",
+    "block": "alltheores:sulfur_ore"
+  },
+  "results": [
+    {
+      "item": "alltheores:sulfur"
+    }
+  ],
+  "soil": {
+    "item": "alltheores:sulfur_block"
+  },
+  "time": 480
+}

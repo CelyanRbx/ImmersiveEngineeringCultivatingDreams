@@ -1,0 +1,19 @@
+{
+  "type": "immersiveengineering:cloche",
+  "input": {
+    "item": "justdirethings:blazegold_ingot"
+  },
+  "render": {
+    "type": "immersiveengineering:generic",
+    "block": "justdirethings:raw_blazegold_ore"
+  },
+  "results": [
+    {
+      "item": "justdirethings:blazegold_ingot"
+    }
+  ],
+  "soil": {
+    "item": "justdirethings:blazegold_block"
+  },
+  "time": 480
+}

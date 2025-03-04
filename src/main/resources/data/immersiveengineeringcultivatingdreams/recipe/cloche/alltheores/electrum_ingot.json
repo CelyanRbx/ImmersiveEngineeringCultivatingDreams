@@ -1,0 +1,19 @@
+{
+  "type": "immersiveengineering:cloche",
+  "input": {
+    "item": "alltheores:electrum_ingot"
+  },
+  "render": {
+    "type": "immersiveengineering:generic",
+    "block": "alltheores:electrum_block"
+  },
+  "results": [
+    {
+      "item": "alltheores:electrum_ingot"
+    }
+  ],
+  "soil": {
+    "item": "alltheores:electrum_block"
+  },
+  "time": 480
+}

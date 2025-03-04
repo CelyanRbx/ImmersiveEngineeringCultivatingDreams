@@ -1,0 +1,19 @@
+{
+  "type": "immersiveengineering:cloche",
+  "input": {
+    "item": "enderio:redstone_alloy_ingot"
+  },
+  "render": {
+    "type": "immersiveengineering:generic",
+    "block": "enderio:redstone_alloy_block"
+  },
+  "results": [
+    {
+      "item": "enderio:redstone_alloy_ingot"
+    }
+  ],
+  "soil": {
+    "item": "enderio:redstone_alloy_block"
+  },
+  "time": 480
+}

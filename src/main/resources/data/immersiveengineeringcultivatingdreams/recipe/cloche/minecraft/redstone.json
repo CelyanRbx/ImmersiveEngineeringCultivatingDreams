@@ -1,0 +1,19 @@
+{
+  "type": "immersiveengineering:cloche",
+  "input": {
+    "item": "minecraft:redstone"
+  },
+  "render": {
+    "type": "immersiveengineering:generic",
+    "block": "minecraft:redstone_ore"
+  },
+  "results": [
+    {
+      "item": "minecraft:redstone"
+    }
+  ],
+  "soil": {
+    "item": "minecraft:redstone_block"
+  },
+  "time": 480
+}

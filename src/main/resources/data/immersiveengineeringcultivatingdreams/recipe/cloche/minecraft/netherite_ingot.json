@@ -1,0 +1,19 @@
+{
+  "type": "immersiveengineering:cloche",
+  "input": {
+    "item": "minecraft:netherite_ingot"
+  },
+  "render": {
+    "type": "immersiveengineering:generic",
+    "block": "minecraft:ancient_debris"
+  },
+  "results": [
+    {
+      "item": "minecraft:netherite_ingot"
+    }
+  ],
+  "soil": {
+    "item": "minecraft:netherite_block"
+  },
+  "time": 480
+}

@@ -1,0 +1,19 @@
+{
+  "type": "immersiveengineering:cloche",
+  "input": {
+    "item": "alltheores:peridot"
+  },
+  "render": {
+    "type": "immersiveengineering:generic",
+    "block": "alltheores:peridot_ore"
+  },
+  "results": [
+    {
+      "item": "alltheores:peridot"
+    }
+  ],
+  "soil": {
+    "item": "alltheores:peridot_block"
+  },
+  "time": 480
+}

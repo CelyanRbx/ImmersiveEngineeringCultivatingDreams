@@ -1,0 +1,19 @@
+{
+  "type": "immersiveengineering:cloche",
+  "input": {
+    "item": "alltheores:tin_ingot"
+  },
+  "render": {
+    "type": "immersiveengineering:generic",
+    "block": "alltheores:tin_ore"
+  },
+  "results": [
+    {
+      "item": "alltheores:tin_ingot"
+    }
+  ],
+  "soil": {
+    "item": "alltheores:tin_block"
+  },
+  "time": 480
+}

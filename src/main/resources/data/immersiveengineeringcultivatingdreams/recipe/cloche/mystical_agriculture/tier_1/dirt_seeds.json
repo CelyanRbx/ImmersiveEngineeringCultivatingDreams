@@ -1,0 +1,25 @@
+{
+  "type": "immersiveengineering:cloche",
+  "input": {
+    "item": "mysticalagriculture:dirt_seeds"
+  },
+  "render": {
+    "type": "immersiveengineering:generic",
+    "block": "mysticalagriculture:dirt_crop"
+  },
+  "results": [
+    {
+      "item": "mysticalagriculture:dirt_essence"
+    },
+    {
+      "item": "mysticalagriculture:fertilized_essence"
+    },
+    {
+      "item": "mysticalagriculture:dirt_seeds"
+    }
+  ],
+  "soil": {
+    "item": "mysticalagriculture:inferium_farmland"
+  },
+  "time": 480
+}

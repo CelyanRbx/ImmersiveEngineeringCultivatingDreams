@@ -1,0 +1,19 @@
+{
+  "type": "immersiveengineering:cloche",
+  "input": {
+    "item": "alltheores:cinnabar"
+  },
+  "render": {
+    "type": "immersiveengineering:generic",
+    "block": "alltheores:cinnabar_ore"
+  },
+  "results": [
+    {
+      "item": "alltheores:cinnabar"
+    }
+  ],
+  "soil": {
+    "item": "alltheores:cinnabar_block"
+  },
+  "time": 480
+}

@@ -1,0 +1,19 @@
+{
+  "type": "immersiveengineering:cloche",
+  "input": {
+    "item": "powah:crystal_niotic"
+  },
+  "render": {
+    "type": "immersiveengineering:generic",
+    "block": "powah:niotic_crystal_block"
+  },
+  "results": [
+    {
+      "item": "powah:crystal_niotic"
+    }
+  ],
+  "soil": {
+    "item": "powah:niotic_crystal_block"
+  },
+  "time": 480
+}

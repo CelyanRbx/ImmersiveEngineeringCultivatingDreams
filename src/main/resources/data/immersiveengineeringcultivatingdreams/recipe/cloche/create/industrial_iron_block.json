@@ -1,0 +1,19 @@
+{
+  "type": "immersiveengineering:cloche",
+  "input": {
+    "item": "minecraft:iron_ingot"
+  },
+  "render": {
+    "type": "immersiveengineering:generic",
+    "block": "create:industrial_iron_block"
+  },
+  "results": [
+    {
+      "item": "create:industrial_iron_block"
+    }
+  ],
+  "soil": {
+    "item": "create:industrial_iron_block"
+  },
+  "time": 480
+}

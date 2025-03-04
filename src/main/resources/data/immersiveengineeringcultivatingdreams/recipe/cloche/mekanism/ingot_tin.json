@@ -1,0 +1,19 @@
+{
+  "type": "immersiveengineering:cloche",
+  "input": {
+    "item": "mekanism:ingot_tin"
+  },
+  "render": {
+    "type": "immersiveengineering:generic",
+    "block": "mekanism:tin_ore"
+  },
+  "results": [
+    {
+      "item": "mekanism:ingot_tin"
+    }
+  ],
+  "soil": {
+    "item": "mekanism:block_tin"
+  },
+  "time": 480
+}

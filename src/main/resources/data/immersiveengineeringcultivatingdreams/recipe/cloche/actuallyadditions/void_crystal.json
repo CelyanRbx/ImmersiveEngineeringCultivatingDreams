@@ -1,0 +1,19 @@
+{
+  "type": "immersiveengineering:cloche",
+  "input": {
+    "item": "actuallyadditions:void_crystal"
+  },
+  "render": {
+    "type": "immersiveengineering:generic",
+    "block": "actuallyadditions:void_crystal_block"
+  },
+  "results": [
+    {
+      "item": "actuallyadditions:void_crystal"
+    }
+  ],
+  "soil": {
+    "item": "actuallyadditions:void_crystal_block"
+  },
+  "time": 480
+}

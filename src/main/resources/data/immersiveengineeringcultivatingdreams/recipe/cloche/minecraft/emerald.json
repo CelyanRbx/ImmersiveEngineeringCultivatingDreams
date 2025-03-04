@@ -1,0 +1,19 @@
+{
+  "type": "immersiveengineering:cloche",
+  "input": {
+    "item": "minecraft:emerald"
+  },
+  "render": {
+    "type": "immersiveengineering:generic",
+    "block": "minecraft:emerald_ore"
+  },
+  "results": [
+    {
+      "item": "minecraft:emerald"
+    }
+  ],
+  "soil": {
+    "item": "minecraft:emerald_block"
+  },
+  "time": 480
+}

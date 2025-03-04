@@ -1,8 +1,7 @@
 plugins {
-    id 'idea'
     id 'java-library'
     id 'maven-publish'
-    id 'net.neoforged.moddev' version '2.0.78'
+    id 'net.neoforged.moddev' version '1.0.21'
 }
 
 tasks.named('wrapper', Wrapper).configure {
@@ -18,7 +17,23 @@ version = mod_version
 group = mod_group_id
 
 repositories {
-    mavenLocal()
+    // Put repositories for dependencies here
+    // ForgeGradle automatically adds the Forge maven and Maven Central for you
+
+    // If you have mod jar dependencies in ./libs, you can declare them as a repository like so.
+    // See https://docs.gradle.org/current/userguide/declaring_repositories.html#sub:flat_dir_resolver
+    // flatDir {
+    //     dir 'libs'
+    // }
+    maven {
+        // location of the maven that hosts JEI files since January 2023
+        name = "Jared's maven"
+        url = "https://maven.blamejared.com/"
+    }
+    maven {
+        url "https://cursemaven.com"
+    }
+    mavenCentral()
 }
 
 base {
@@ -119,6 +134,33 @@ dependencies {
     // compileOnly "mezz.jei:jei-${mc_version}-neoforge-api:${jei_version}"
     // We add the full version to localRuntime, not runtimeOnly, so that we do not publish a dependency on it
     // localRuntime "mezz.jei:jei-${mc_version}-neoforge:${jei_version}"
+
+    implementation "curse.maven:jei-238222:5846880"
+    implementation "curse.maven:immersive-engineering-231951:6235316"
+    implementation "curse.maven:powah-rearchitected-633483:6143661"
+    implementation "curse.maven:cloth-config-348521:5729127"
+    implementation "curse.maven:cooking-for-blockheads-231484:6200287"
+    implementation "curse.maven:balm-531761:6224887"
+    implementation "curse.maven:pipez-443900:5757713"
+    implementation "curse.maven:allthemodium-364466:6135138"
+    implementation "curse.maven:geckolib-388172:6027599"
+    implementation "curse.maven:ato-405593:6118610"
+    implementation "curse.maven:applied-energistics-2-223794:6237438"
+    implementation "curse.maven:guideme-1173950:6223759"
+    implementation "curse.maven:create-328085:6247669"
+    implementation "curse.maven:ender-io-64578:6138288"
+    implementation "curse.maven:ex-pattern-provider-892005:6251183"
+    implementation "curse.maven:glodium-957920:5821676"
+    implementation "curse.maven:mekanism-268560:6242484"
+    implementation "curse.maven:mekanism-generators-268566:6242487"
+    implementation "curse.maven:mekanism-tools-268567:6242488"
+    implementation "curse.maven:mystical-agradditions-256247:6034061"
+    implementation "curse.maven:mystical-agriculture-246640:6228700"
+    implementation "curse.maven:cucumber-272335:6228644"
+    implementation "curse.maven:actually-additions-228404:6193603"
+    implementation "curse.maven:just-dire-things-1002348:6161633"
+    implementation "curse.maven:worldedit-225608:5830452"
+
 
     // Example mod dependency using a mod jar from ./libs with a flat dir repository
     // This maps to ./libs/coolmod-${mc_version}-${coolmod_version}.jar

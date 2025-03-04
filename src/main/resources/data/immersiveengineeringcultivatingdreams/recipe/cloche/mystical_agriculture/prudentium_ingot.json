@@ -1,0 +1,25 @@
+{
+  "type": "immersiveengineering:cloche",
+  "input": {
+    "item": "mysticalagriculture:prudentium_ingot"
+  },
+  "render": {
+    "type": "immersiveengineering:generic",
+    "block": "mysticalagriculture:prudentium_block"
+  },
+  "results": [
+    {
+      "item": "mysticalagriculture:prudentium_ingot"
+    },
+    {
+      "item": "mysticalagriculture:prudentium_gemstone"
+    },
+    {
+      "item": "mysticalagriculture:prudentium_essence"
+    }
+  ],
+  "soil": {
+    "item": "mysticalagriculture:prudentium_block"
+  },
+  "time": 480
+}

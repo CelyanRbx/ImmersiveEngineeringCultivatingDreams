@@ -1,0 +1,19 @@
+{
+  "type": "immersiveengineering:cloche",
+  "input": {
+    "item": "powah:crystal_blazing"
+  },
+  "render": {
+    "type": "immersiveengineering:generic",
+    "block": "powah:blazing_crystal_block"
+  },
+  "results": [
+    {
+      "item": "powah:crystal_blazing"
+    }
+  ],
+  "soil": {
+    "item": "powah:blazing_crystal_block"
+  },
+  "time": 480
+}

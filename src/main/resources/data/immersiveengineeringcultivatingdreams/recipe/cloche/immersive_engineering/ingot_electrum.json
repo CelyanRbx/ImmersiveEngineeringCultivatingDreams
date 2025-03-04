@@ -1,0 +1,19 @@
+{
+  "type": "immersiveengineering:cloche",
+  "input": {
+    "item": "immersiveengineering:ingot_electrum"
+  },
+  "render": {
+    "type": "immersiveengineering:generic",
+    "block": "immersiveengineering:storage_electrum"
+  },
+  "results": [
+    {
+      "item": "immersiveengineering:ingot_electrum"
+    }
+  ],
+  "soil": {
+    "item": "immersiveengineering:storage_electrum"
+  },
+  "time": 480
+}

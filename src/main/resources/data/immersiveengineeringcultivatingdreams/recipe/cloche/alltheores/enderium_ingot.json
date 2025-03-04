@@ -1,0 +1,19 @@
+{
+  "type": "immersiveengineering:cloche",
+  "input": {
+    "item": "alltheores:enderium_ingot"
+  },
+  "render": {
+    "type": "immersiveengineering:generic",
+    "block": "alltheores:enderium_block"
+  },
+  "results": [
+    {
+      "item": "alltheores:enderium_ingot"
+    }
+  ],
+  "soil": {
+    "item": "alltheores:enderium_block"
+  },
+  "time": 480
+}

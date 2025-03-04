@@ -1,0 +1,19 @@
+{
+  "type": "immersiveengineering:cloche",
+  "input": {
+    "item": "justdirethings:celestigem"
+  },
+  "render": {
+    "type": "immersiveengineering:generic",
+    "block": "justdirethings:raw_celestigem_ore"
+  },
+  "results": [
+    {
+      "item": "justdirethings:celestigem"
+    }
+  ],
+  "soil": {
+    "item": "justdirethings:celestigem_block"
+  },
+  "time": 480
+}

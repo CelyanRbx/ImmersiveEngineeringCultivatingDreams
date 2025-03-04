@@ -1,0 +1,19 @@
+{
+  "type": "immersiveengineering:cloche",
+  "input": {
+    "item": "mekanism:ingot_steel"
+  },
+  "render": {
+    "type": "immersiveengineering:generic",
+    "block": "mekanism:block_steel"
+  },
+  "results": [
+    {
+      "item": "mekanism:ingot_steel"
+    }
+  ],
+  "soil": {
+    "item": "mekanism:block_steel"
+  },
+  "time": 480
+}

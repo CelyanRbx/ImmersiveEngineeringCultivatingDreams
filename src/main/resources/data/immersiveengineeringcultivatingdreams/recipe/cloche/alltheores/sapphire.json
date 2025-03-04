@@ -1,0 +1,19 @@
+{
+  "type": "immersiveengineering:cloche",
+  "input": {
+    "item": "alltheores:sapphire"
+  },
+  "render": {
+    "type": "immersiveengineering:generic",
+    "block": "alltheores:sapphire_ore"
+  },
+  "results": [
+    {
+      "item": "alltheores:sapphire"
+    }
+  ],
+  "soil": {
+    "item": "alltheores:sapphire_block"
+  },
+  "time": 480
+}

@@ -1,0 +1,19 @@
+{
+  "type": "immersiveengineering:cloche",
+  "input": {
+    "item": "alltheores:signalum_ingot"
+  },
+  "render": {
+    "type": "immersiveengineering:generic",
+    "block": "alltheores:signalum_block"
+  },
+  "results": [
+    {
+      "item": "alltheores:signalum_ingot"
+    }
+  ],
+  "soil": {
+    "item": "alltheores:signalum_block"
+  },
+  "time": 480
+}

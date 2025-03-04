@@ -1,0 +1,19 @@
+{
+  "type": "immersiveengineering:cloche",
+  "input": {
+    "item": "alltheores:osmium_ingot"
+  },
+  "render": {
+    "type": "immersiveengineering:generic",
+    "block": "alltheores:osmium_ore"
+  },
+  "results": [
+    {
+      "item": "alltheores:osmium_ingot"
+    }
+  ],
+  "soil": {
+    "item": "alltheores:osmium_block"
+  },
+  "time": 480
+}

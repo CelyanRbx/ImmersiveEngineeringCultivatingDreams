@@ -1,0 +1,19 @@
+{
+  "type": "immersiveengineering:cloche",
+  "input": {
+    "item": "allthemodium:allthemodium_ingot"
+  },
+  "render": {
+    "type": "immersiveengineering:generic",
+    "block": "allthemodium:allthemodium_ore"
+  },
+  "results": [
+    {
+      "item": "allthemodium:allthemodium_ingot"
+    }
+  ],
+  "soil": {
+    "item": "allthemodium:allthemodium_block"
+  },
+  "time": 480
+}

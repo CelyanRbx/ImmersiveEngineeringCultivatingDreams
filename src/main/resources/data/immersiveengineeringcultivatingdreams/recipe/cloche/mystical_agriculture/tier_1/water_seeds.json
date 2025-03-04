@@ -1,0 +1,25 @@
+{
+  "type": "immersiveengineering:cloche",
+  "input": {
+    "item": "mysticalagriculture:water_seeds"
+  },
+  "render": {
+    "type": "immersiveengineering:generic",
+    "block": "mysticalagriculture:water_crop"
+  },
+  "results": [
+    {
+      "item": "mysticalagriculture:water_essence"
+    },
+    {
+      "item": "mysticalagriculture:fertilized_essence"
+    },
+    {
+      "item": "mysticalagriculture:water_seeds"
+    }
+  ],
+  "soil": {
+    "item": "mysticalagriculture:inferium_farmland"
+  },
+  "time": 480
+}

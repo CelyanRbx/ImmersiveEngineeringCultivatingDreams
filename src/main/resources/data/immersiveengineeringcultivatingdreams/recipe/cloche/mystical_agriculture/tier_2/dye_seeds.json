@@ -1,0 +1,25 @@
+{
+  "type": "immersiveengineering:cloche",
+  "input": {
+    "item": "mysticalagriculture:dye_seeds"
+  },
+  "render": {
+    "type": "immersiveengineering:generic",
+    "block": "mysticalagriculture:dye_crop"
+  },
+  "results": [
+    {
+      "item": "mysticalagriculture:dye_essence"
+    },
+    {
+      "item": "mysticalagriculture:fertilized_essence"
+    },
+    {
+      "item": "mysticalagriculture:dye_seeds"
+    }
+  ],
+  "soil": {
+    "item": "mysticalagriculture:prudentium_farmland"
+  },
+  "time": 480
+}

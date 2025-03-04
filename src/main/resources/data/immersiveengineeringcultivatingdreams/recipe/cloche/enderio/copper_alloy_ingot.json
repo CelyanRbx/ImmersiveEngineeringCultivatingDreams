@@ -1,0 +1,19 @@
+{
+  "type": "immersiveengineering:cloche",
+  "input": {
+    "item": "enderio:copper_alloy_ingot"
+  },
+  "render": {
+    "type": "immersiveengineering:generic",
+    "block": "enderio:copper_alloy_block"
+  },
+  "results": [
+    {
+      "item": "enderio:copper_alloy_ingot"
+    }
+  ],
+  "soil": {
+    "item": "enderio:copper_alloy_block"
+  },
+  "time": 480
+}

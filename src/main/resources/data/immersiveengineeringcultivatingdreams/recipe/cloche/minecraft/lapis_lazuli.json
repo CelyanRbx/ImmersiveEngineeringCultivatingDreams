@@ -1,0 +1,19 @@
+{
+  "type": "immersiveengineering:cloche",
+  "input": {
+    "item": "minecraft:lapis_lazuli"
+  },
+  "render": {
+    "type": "immersiveengineering:generic",
+    "block": "minecraft:lapis_ore"
+  },
+  "results": [
+    {
+      "item": "minecraft:lapis_lazuli"
+    }
+  ],
+  "soil": {
+    "item": "minecraft:lapis_block"
+  },
+  "time": 480
+}

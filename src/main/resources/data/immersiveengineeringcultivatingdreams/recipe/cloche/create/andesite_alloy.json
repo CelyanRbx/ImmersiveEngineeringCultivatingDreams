@@ -1,0 +1,19 @@
+{
+  "type": "immersiveengineering:cloche",
+  "input": {
+    "item": "create:andesite_alloy"
+  },
+  "render": {
+    "type": "immersiveengineering:generic",
+    "block": "create:andesite_alloy_block"
+  },
+  "results": [
+    {
+      "item": "create:andesite_alloy"
+    }
+  ],
+  "soil": {
+    "item": "create:andesite_alloy_block"
+  },
+  "time": 480
+}

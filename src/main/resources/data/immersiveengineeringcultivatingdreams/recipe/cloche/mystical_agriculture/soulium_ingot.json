@@ -1,0 +1,25 @@
+{
+  "type": "immersiveengineering:cloche",
+  "input": {
+    "item": "mysticalagriculture:soulium_ingot"
+  },
+  "render": {
+    "type": "immersiveengineering:generic",
+    "block": "mysticalagriculture:soulium_block"
+  },
+  "results": [
+    {
+      "item": "mysticalagriculture:soulium_ingot"
+    },
+    {
+      "item": "mysticalagriculture:soulium_gemstone"
+    },
+    {
+      "item": "mysticalagriculture:soulium_dust"
+    }
+  ],
+  "soil": {
+    "item": "mysticalagriculture:soulium_block"
+  },
+  "time": 480
+}

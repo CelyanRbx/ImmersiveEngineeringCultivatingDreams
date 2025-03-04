@@ -1,0 +1,25 @@
+{
+  "type": "immersiveengineering:cloche",
+  "input": {
+    "item": "mysticalagriculture:tertium_ingot"
+  },
+  "render": {
+    "type": "immersiveengineering:generic",
+    "block": "mysticalagriculture:tertium_block"
+  },
+  "results": [
+    {
+      "item": "mysticalagriculture:tertium_ingot"
+    },
+    {
+      "item": "mysticalagriculture:tertium_gemstone"
+    },
+    {
+      "item": "mysticalagriculture:tertium_essence"
+    }
+  ],
+  "soil": {
+    "item": "mysticalagriculture:tertium_block"
+  },
+  "time": 480
+}

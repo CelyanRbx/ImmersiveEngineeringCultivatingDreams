@@ -1,0 +1,19 @@
+{
+  "type": "immersiveengineering:cloche",
+  "input": {
+    "item": "alltheores:zinc_ingot"
+  },
+  "render": {
+    "type": "immersiveengineering:generic",
+    "block": "alltheores:zinc_ore"
+  },
+  "results": [
+    {
+      "item": "alltheores:zinc_ingot"
+    }
+  ],
+  "soil": {
+    "item": "alltheores:zinc_block"
+  },
+  "time": 480
+}

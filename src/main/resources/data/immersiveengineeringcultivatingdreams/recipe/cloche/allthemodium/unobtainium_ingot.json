@@ -1,0 +1,19 @@
+{
+  "type": "immersiveengineering:cloche",
+  "input": {
+    "item": "allthemodium:unobtainium_ingot"
+  },
+  "render": {
+    "type": "immersiveengineering:generic",
+    "block": "allthemodium:unobtainium_ore"
+  },
+  "results": [
+    {
+      "item": "allthemodium:unobtainium_ingot"
+    }
+  ],
+  "soil": {
+    "item": "allthemodium:unobtainium_block"
+  },
+  "time": 480
+}

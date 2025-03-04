@@ -1,0 +1,19 @@
+{
+  "type": "immersiveengineering:cloche",
+  "input": {
+    "item": "alltheores:uranium_ingot"
+  },
+  "render": {
+    "type": "immersiveengineering:generic",
+    "block": "alltheores:uranium_ore"
+  },
+  "results": [
+    {
+      "item": "alltheores:uranium_ingot"
+    }
+  ],
+  "soil": {
+    "item": "alltheores:uranium_block"
+  },
+  "time": 480
+}

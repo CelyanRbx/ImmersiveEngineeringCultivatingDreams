@@ -1,0 +1,19 @@
+{
+  "type": "immersiveengineering:cloche",
+  "input": {
+    "item": "alltheores:constantan_ingot"
+  },
+  "render": {
+    "type": "immersiveengineering:generic",
+    "block": "alltheores:constantan_block"
+  },
+  "results": [
+    {
+      "item": "alltheores:constantan_ingot"
+    }
+  ],
+  "soil": {
+    "item": "alltheores:constantan_block"
+  },
+  "time": 480
+}

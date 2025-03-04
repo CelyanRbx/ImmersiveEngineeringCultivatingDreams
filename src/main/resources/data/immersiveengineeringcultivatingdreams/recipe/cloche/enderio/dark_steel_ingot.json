@@ -1,0 +1,19 @@
+{
+  "type": "immersiveengineering:cloche",
+  "input": {
+    "item": "enderio:dark_steel_ingot"
+  },
+  "render": {
+    "type": "immersiveengineering:generic",
+    "block": "enderio:dark_steel_block"
+  },
+  "results": [
+    {
+      "item": "enderio:dark_steel_ingot"
+    }
+  ],
+  "soil": {
+    "item": "enderio:dark_steel_block"
+  },
+  "time": 480
+}

@@ -1,0 +1,19 @@
+{
+  "type": "immersiveengineering:cloche",
+  "input": {
+    "item": "actuallyadditions:empowered_restonia_crystal"
+  },
+  "render": {
+    "type": "immersiveengineering:generic",
+    "block": "actuallyadditions:empowered_restonia_crystal_block"
+  },
+  "results": [
+    {
+      "item": "actuallyadditions:empowered_restonia_crystal"
+    }
+  ],
+  "soil": {
+    "item": "actuallyadditions:empowered_restonia_crystal_block"
+  },
+  "time": 480
+}

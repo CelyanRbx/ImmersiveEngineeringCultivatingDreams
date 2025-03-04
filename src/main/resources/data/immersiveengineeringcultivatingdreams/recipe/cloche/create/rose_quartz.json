@@ -1,0 +1,19 @@
+{
+  "type": "immersiveengineering:cloche",
+  "input": {
+    "item": "create:rose_quartz"
+  },
+  "render": {
+    "type": "immersiveengineering:generic",
+    "block": "create:rose_quartz_block"
+  },
+  "results": [
+    {
+      "item": "create:polished_rose_quartz"
+    }
+  ],
+  "soil": {
+    "item": "create:rose_quartz_block"
+  },
+  "time": 480
+}

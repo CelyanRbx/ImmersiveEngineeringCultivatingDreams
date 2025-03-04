@@ -1,0 +1,19 @@
+{
+  "type": "immersiveengineering:cloche",
+  "input": {
+    "item": "enderio:pulsating_alloy_ingot"
+  },
+  "render": {
+    "type": "immersiveengineering:generic",
+    "block": "enderio:pulsating_alloy_block"
+  },
+  "results": [
+    {
+      "item": "enderio:pulsating_alloy_ingot"
+    }
+  ],
+  "soil": {
+    "item": "enderio:pulsating_alloy_block"
+  },
+  "time": 480
+}

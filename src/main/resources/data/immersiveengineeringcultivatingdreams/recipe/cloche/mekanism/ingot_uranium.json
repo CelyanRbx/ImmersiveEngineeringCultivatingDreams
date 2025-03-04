@@ -1,0 +1,19 @@
+{
+  "type": "immersiveengineering:cloche",
+  "input": {
+    "item": "mekanism:ingot_uranium"
+  },
+  "render": {
+    "type": "immersiveengineering:generic",
+    "block": "mekanism:uranium_ore"
+  },
+  "results": [
+    {
+      "item": "mekanism:ingot_uranium"
+    }
+  ],
+  "soil": {
+    "item": "mekanism:block_uranium"
+  },
+  "time": 480
+}

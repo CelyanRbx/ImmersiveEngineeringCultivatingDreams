@@ -1,0 +1,19 @@
+{
+  "type": "immersiveengineering:cloche",
+  "input": {
+    "item": "allthemodium:unobtainium_vibranium_alloy_ingot"
+  },
+  "render": {
+    "type": "immersiveengineering:generic",
+    "block": "allthemodium:unobtainium_vibranium_alloy_block"
+  },
+  "results": [
+    {
+      "item": "allthemodium:unobtainium_vibranium_alloy_ingot"
+    }
+  ],
+  "soil": {
+    "item": "allthemodium:unobtainium_vibranium_alloy_block"
+  },
+  "time": 480
+}

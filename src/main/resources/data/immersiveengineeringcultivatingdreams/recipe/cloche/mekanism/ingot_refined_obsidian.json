@@ -1,0 +1,19 @@
+{
+  "type": "immersiveengineering:cloche",
+  "input": {
+    "item": "mekanism:ingot_refined_obsidian"
+  },
+  "render": {
+    "type": "immersiveengineering:generic",
+    "block": "mekanism:block_refined_obsidian"
+  },
+  "results": [
+    {
+      "item": "mekanism:ingot_refined_obsidian"
+    }
+  ],
+  "soil": {
+    "item": "mekanism:block_refined_obsidian"
+  },
+  "time": 480
+}

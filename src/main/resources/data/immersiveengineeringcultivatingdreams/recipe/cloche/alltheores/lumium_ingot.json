@@ -1,0 +1,19 @@
+{
+  "type": "immersiveengineering:cloche",
+  "input": {
+    "item": "alltheores:lumium_ingot"
+  },
+  "render": {
+    "type": "immersiveengineering:generic",
+    "block": "alltheores:lumium_block"
+  },
+  "results": [
+    {
+      "item": "alltheores:lumium_ingot"
+    }
+  ],
+  "soil": {
+    "item": "alltheores:lumium_block"
+  },
+  "time": 480
+}

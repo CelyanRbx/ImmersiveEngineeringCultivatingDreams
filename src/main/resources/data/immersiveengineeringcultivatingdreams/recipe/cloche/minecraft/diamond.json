@@ -1,0 +1,19 @@
+{
+  "type": "immersiveengineering:cloche",
+  "input": {
+    "item": "minecraft:diamond"
+  },
+  "render": {
+    "type": "immersiveengineering:generic",
+    "block": "minecraft:diamond_ore"
+  },
+  "results": [
+    {
+      "item": "minecraft:diamond"
+    }
+  ],
+  "soil": {
+    "item": "minecraft:diamond_block"
+  },
+  "time": 480
+}

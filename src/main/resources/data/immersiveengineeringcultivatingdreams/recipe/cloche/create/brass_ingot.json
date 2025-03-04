@@ -1,0 +1,19 @@
+{
+  "type": "immersiveengineering:cloche",
+  "input": {
+    "item": "create:brass_ingot"
+  },
+  "render": {
+    "type": "immersiveengineering:generic",
+    "block": "create:brass_block"
+  },
+  "results": [
+    {
+      "item": "create:brass_ingot"
+    }
+  ],
+  "soil": {
+    "item": "create:brass_block"
+  },
+  "time": 480
+}

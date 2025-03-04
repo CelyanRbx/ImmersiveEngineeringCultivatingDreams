@@ -1,0 +1,19 @@
+{
+  "type": "immersiveengineering:cloche",
+  "input": {
+    "item": "alltheores:bronze_ingot"
+  },
+  "render": {
+    "type": "immersiveengineering:generic",
+    "block": "alltheores:bronze_block"
+  },
+  "results": [
+    {
+      "item": "alltheores:bronze_ingot"
+    }
+  ],
+  "soil": {
+    "item": "alltheores:bronze_block"
+  },
+  "time": 480
+}

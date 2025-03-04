@@ -1,0 +1,19 @@
+{
+  "type": "immersiveengineering:cloche",
+  "input": {
+    "item": "minecraft:quartz"
+  },
+  "render": {
+    "type": "immersiveengineering:generic",
+    "block": "minecraft:nether_quartz_ore"
+  },
+  "results": [
+    {
+      "item": "minecraft:quartz"
+    }
+  ],
+  "soil": {
+    "item": "minecraft:quartz_block"
+  },
+  "time": 480
+}

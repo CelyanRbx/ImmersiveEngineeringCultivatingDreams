@@ -1,0 +1,19 @@
+{
+  "type": "immersiveengineering:cloche",
+  "input": {
+    "item": "enderio:soularium_ingot"
+  },
+  "render": {
+    "type": "immersiveengineering:generic",
+    "block": "enderio:soularium_block"
+  },
+  "results": [
+    {
+      "item": "enderio:soularium_ingot"
+    }
+  ],
+  "soil": {
+    "item": "enderio:soularium_block"
+  },
+  "time": 480
+}

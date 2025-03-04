@@ -1,0 +1,19 @@
+{
+  "type": "immersiveengineering:cloche",
+  "input": {
+    "item": "justdirethings:ferricore_ingot"
+  },
+  "render": {
+    "type": "immersiveengineering:generic",
+    "block": "justdirethings:raw_ferricore_ore"
+  },
+  "results": [
+    {
+      "item": "justdirethings:ferricore_ingot"
+    }
+  ],
+  "soil": {
+    "item": "justdirethings:ferricore_block"
+  },
+  "time": 480
+}

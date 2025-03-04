@@ -1,0 +1,19 @@
+{
+  "type": "immersiveengineering:cloche",
+  "input": {
+    "item": "immersiveengineering:ingot_constantan"
+  },
+  "render": {
+    "type": "immersiveengineering:generic",
+    "block": "immersiveengineering:storage_constantan"
+  },
+  "results": [
+    {
+      "item": "immersiveengineering:ingot_constantan"
+    }
+  ],
+  "soil": {
+    "item": "immersiveengineering:storage_constantan"
+  },
+  "time": 480
+}

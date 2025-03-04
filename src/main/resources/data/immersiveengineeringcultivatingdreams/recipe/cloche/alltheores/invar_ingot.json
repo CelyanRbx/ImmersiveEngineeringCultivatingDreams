@@ -1,0 +1,19 @@
+{
+  "type": "immersiveengineering:cloche",
+  "input": {
+    "item": "alltheores:invar_ingot"
+  },
+  "render": {
+    "type": "immersiveengineering:generic",
+    "block": "alltheores:invar_block"
+  },
+  "results": [
+    {
+      "item": "alltheores:invar_ingot"
+    }
+  ],
+  "soil": {
+    "item": "alltheores:invar_block"
+  },
+  "time": 480
+}

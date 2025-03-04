@@ -1,0 +1,19 @@
+{
+  "type": "immersiveengineering:cloche",
+  "input": {
+    "item": "alltheores:aluminum_ingot"
+  },
+  "render": {
+    "type": "immersiveengineering:generic",
+    "block": "alltheores:aluminum_ore"
+  },
+  "results": [
+    {
+      "item": "alltheores:aluminum_ingot"
+    }
+  ],
+  "soil": {
+    "item": "alltheores:aluminum_block"
+  },
+  "time": 480
+}

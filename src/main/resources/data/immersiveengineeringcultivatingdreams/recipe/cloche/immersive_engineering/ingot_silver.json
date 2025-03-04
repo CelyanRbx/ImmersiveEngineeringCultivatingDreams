@@ -1,0 +1,19 @@
+{
+  "type": "immersiveengineering:cloche",
+  "input": {
+    "item": "immersiveengineering:ingot_silver"
+  },
+  "render": {
+    "type": "immersiveengineering:generic",
+    "block": "immersiveengineering:storage_silver"
+  },
+  "results": [
+    {
+      "item": "immersiveengineering:ingot_silver"
+    }
+  ],
+  "soil": {
+    "item": "immersiveengineering:storage_silver"
+  },
+  "time": 480
+}

@@ -1,0 +1,19 @@
+{
+  "type": "immersiveengineering:cloche",
+  "input": {
+    "item": "minecraft:coal"
+  },
+  "render": {
+    "type": "immersiveengineering:generic",
+    "block": "minecraft:coal_ore"
+  },
+  "results": [
+    {
+      "item": "minecraft:coal"
+    }
+  ],
+  "soil": {
+    "item": "minecraft:coal_block"
+  },
+  "time": 480
+}

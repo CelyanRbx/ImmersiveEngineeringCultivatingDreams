@@ -1,0 +1,19 @@
+{
+  "type": "immersiveengineering:cloche",
+  "input": {
+    "item": "alltheores:nickel_ingot"
+  },
+  "render": {
+    "type": "immersiveengineering:generic",
+    "block": "alltheores:nickel_ore"
+  },
+  "results": [
+    {
+      "item": "alltheores:nickel_ingot"
+    }
+  ],
+  "soil": {
+    "item": "alltheores:nickel_block"
+  },
+  "time": 480
+}

@@ -1,0 +1,19 @@
+{
+  "type": "immersiveengineering:cloche",
+  "input": {
+    "item": "ae2:fluix_crystal"
+  },
+  "render": {
+    "type": "immersiveengineering:generic",
+    "block": "ae2:fluix_block"
+  },
+  "results": [
+    {
+      "item": "ae2:fluix_crystal"
+    }
+  ],
+  "soil": {
+    "item": "ae2:fluix_block"
+  },
+  "time": 480
+}

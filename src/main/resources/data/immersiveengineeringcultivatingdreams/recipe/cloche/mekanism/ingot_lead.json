@@ -1,0 +1,19 @@
+{
+  "type": "immersiveengineering:cloche",
+  "input": {
+    "item": "mekanism:ingot_lead"
+  },
+  "render": {
+    "type": "immersiveengineering:generic",
+    "block": "mekanism:lead_ore"
+  },
+  "results": [
+    {
+      "item": "mekanism:ingot_lead"
+    }
+  ],
+  "soil": {
+    "item": "mekanism:block_lead"
+  },
+  "time": 480
+}

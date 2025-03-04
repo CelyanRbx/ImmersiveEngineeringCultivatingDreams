@@ -1,0 +1,19 @@
+{
+  "type": "immersiveengineering:cloche",
+  "input": {
+    "item": "mekanism:ingot_bronze"
+  },
+  "render": {
+    "type": "immersiveengineering:generic",
+    "block": "mekanism:block_bronze"
+  },
+  "results": [
+    {
+      "item": "mekanism:ingot_bronze"
+    }
+  ],
+  "soil": {
+    "item": "mekanism:block_bronze"
+  },
+  "time": 480
+}

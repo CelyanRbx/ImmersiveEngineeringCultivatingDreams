@@ -1,0 +1,19 @@
+{
+  "type": "immersiveengineering:cloche",
+  "input": {
+    "item": "powah:uraninite"
+  },
+  "render": {
+    "type": "immersiveengineering:generic",
+    "block": "powah:uraninite_block"
+  },
+  "results": [
+    {
+      "item": "powah:uraninite"
+    }
+  ],
+  "soil": {
+    "item": "powah:uraninite_block"
+  },
+  "time": 480
+}

@@ -1,0 +1,19 @@
+{
+  "type": "immersiveengineering:cloche",
+  "input": {
+    "item": "actuallyadditions:diamatine_crystal"
+  },
+  "render": {
+    "type": "immersiveengineering:generic",
+    "block": "actuallyadditions:diamatine_crystal_block"
+  },
+  "results": [
+    {
+      "item": "actuallyadditions:diamatine_crystal"
+    }
+  ],
+  "soil": {
+    "item": "actuallyadditions:diamatine_crystal_block"
+  },
+  "time": 480
+}

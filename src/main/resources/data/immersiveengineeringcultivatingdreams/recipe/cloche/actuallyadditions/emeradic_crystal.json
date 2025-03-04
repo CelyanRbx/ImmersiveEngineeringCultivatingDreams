@@ -1,0 +1,19 @@
+{
+  "type": "immersiveengineering:cloche",
+  "input": {
+    "item": "actuallyadditions:emeradic_crystal"
+  },
+  "render": {
+    "type": "immersiveengineering:generic",
+    "block": "actuallyadditions:emeradic_crystal_block"
+  },
+  "results": [
+    {
+      "item": "actuallyadditions:emeradic_crystal"
+    }
+  ],
+  "soil": {
+    "item": "actuallyadditions:emeradic_crystal_block"
+  },
+  "time": 480
+}

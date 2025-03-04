@@ -1,0 +1,19 @@
+{
+  "type": "immersiveengineering:cloche",
+  "input": {
+    "item": "powah:crystal_spirited"
+  },
+  "render": {
+    "type": "immersiveengineering:generic",
+    "block": "powah:spirited_crystal_block"
+  },
+  "results": [
+    {
+      "item": "powah:crystal_spirited"
+    }
+  ],
+  "soil": {
+    "item": "powah:spirited_crystal_block"
+  },
+  "time": 480
+}

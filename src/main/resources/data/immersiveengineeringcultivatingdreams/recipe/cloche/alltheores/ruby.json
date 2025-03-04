@@ -1,0 +1,19 @@
+{
+  "type": "immersiveengineering:cloche",
+  "input": {
+    "item": "alltheores:ruby"
+  },
+  "render": {
+    "type": "immersiveengineering:generic",
+    "block": "alltheores:ruby_ore"
+  },
+  "results": [
+    {
+      "item": "alltheores:ruby"
+    }
+  ],
+  "soil": {
+    "item": "alltheores:ruby_block"
+  },
+  "time": 480
+}
