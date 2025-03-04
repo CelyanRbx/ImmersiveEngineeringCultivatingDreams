@@ -1,0 +1,19 @@
+{
+  "type": "immersiveengineering:cloche",
+  "input": {
+    "item": "powah:steel_energized"
+  },
+  "render": {
+    "type": "immersiveengineering:generic",
+    "block": "powah:energized_steel_block"
+  },
+  "results": [
+    {
+      "item": "powah:steel_energized"
+    }
+  ],
+  "soil": {
+    "item": "powah:energized_steel_block"
+  },
+  "time": 1200
+}
