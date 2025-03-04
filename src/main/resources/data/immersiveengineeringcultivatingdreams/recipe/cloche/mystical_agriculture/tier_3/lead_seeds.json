@@ -1,0 +1,25 @@
+{
+  "type": "immersiveengineering:cloche",
+  "input": {
+    "item": "mysticalagriculture:lead_seeds"
+  },
+  "render": {
+    "type": "immersiveengineering:generic",
+    "block": "mysticalagriculture:lead_crop"
+  },
+  "results": [
+    {
+      "item": "mysticalagriculture:lead_essence"
+    },
+    {
+      "item": "mysticalagriculture:fertilized_essence"
+    },
+    {
+      "item": "mysticalagriculture:lead_seeds"
+    }
+  ],
+  "soil": {
+    "item": "mysticalagriculture:tertium_farmland"
+  },
+  "time": 480
+}

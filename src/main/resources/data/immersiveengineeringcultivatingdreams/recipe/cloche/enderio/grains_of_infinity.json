@@ -1,0 +1,19 @@
+{
+  "type": "immersiveengineering:cloche",
+  "input": {
+    "item": "enderio:grains_of_infinity"
+  },
+  "render": {
+    "type": "immersiveengineering:generic",
+    "block": "minecraft:deepslate"
+  },
+  "results": [
+    {
+      "item": "enderio:grains_of_infinity"
+    }
+  ],
+  "soil": {
+    "item": "minecraft:deepslate"
+  },
+  "time": 480
+}
