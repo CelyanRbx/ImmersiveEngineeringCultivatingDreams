@@ -1,0 +1,25 @@
+{
+  "type": "immersiveengineering:cloche",
+  "input": {
+    "item": "mysticalagriculture:nether_star_seeds"
+  },
+  "render": {
+    "type": "immersiveengineering:generic",
+    "block": "mysticalagriculture:nether_star_crop"
+  },
+  "results": [
+    {
+      "item": "mysticalagriculture:nether_star_essence"
+    },
+    {
+      "item": "mysticalagriculture:fertilized_essence"
+    },
+    {
+      "item": "mysticalagriculture:nether_star_seeds"
+    }
+  ],
+  "soil": {
+    "item": "mysticalagradditions:insanium_farmland"
+  },
+  "time": 480
+}

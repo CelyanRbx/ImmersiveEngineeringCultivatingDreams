@@ -1,0 +1,25 @@
+{
+  "type": "immersiveengineering:cloche",
+  "input": {
+    "item": "mysticalagriculture:flux_infused_gem_seeds"
+  },
+  "render": {
+    "type": "immersiveengineering:generic",
+    "block": "mysticalagriculture:flux_infused_gem_crop"
+  },
+  "results": [
+    {
+      "item": "mysticalagriculture:flux_infused_gem_essence"
+    },
+    {
+      "item": "mysticalagriculture:fertilized_essence"
+    },
+    {
+      "item": "mysticalagriculture:flux_infused_gem_seeds"
+    }
+  ],
+  "soil": {
+    "item": "mysticalagriculture:supremium_farmland"
+  },
+  "time": 480
+}

@@ -1,0 +1,25 @@
+{
+  "type": "immersiveengineering:cloche",
+  "input": {
+    "item": "mysticalagriculture:neutronium_seeds"
+  },
+  "render": {
+    "type": "immersiveengineering:generic",
+    "block": "mysticalagriculture:neutronium_crop"
+  },
+  "results": [
+    {
+      "item": "mysticalagriculture:neutronium_essence"
+    },
+    {
+      "item": "mysticalagriculture:fertilized_essence"
+    },
+    {
+      "item": "mysticalagriculture:neutronium_seeds"
+    }
+  ],
+  "soil": {
+    "item": "mysticalagradditions:insanium_farmland"
+  },
+  "time": 480
+}

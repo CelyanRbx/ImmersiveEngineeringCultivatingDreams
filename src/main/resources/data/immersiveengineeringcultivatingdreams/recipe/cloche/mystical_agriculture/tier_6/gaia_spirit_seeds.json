@@ -1,0 +1,25 @@
+{
+  "type": "immersiveengineering:cloche",
+  "input": {
+    "item": "mysticalagriculture:gaia_spirit_seeds"
+  },
+  "render": {
+    "type": "immersiveengineering:generic",
+    "block": "mysticalagriculture:gaia_spirit_crop"
+  },
+  "results": [
+    {
+      "item": "mysticalagriculture:gaia_spirit_essence"
+    },
+    {
+      "item": "mysticalagriculture:fertilized_essence"
+    },
+    {
+      "item": "mysticalagriculture:gaia_spirit_seeds"
+    }
+  ],
+  "soil": {
+    "item": "mysticalagradditions:insanium_farmland"
+  },
+  "time": 480
+}

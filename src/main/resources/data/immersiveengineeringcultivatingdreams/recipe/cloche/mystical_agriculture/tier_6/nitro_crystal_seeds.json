@@ -1,0 +1,25 @@
+{
+  "type": "immersiveengineering:cloche",
+  "input": {
+    "item": "mysticalagriculture:nitro_crystal_seeds"
+  },
+  "render": {
+    "type": "immersiveengineering:generic",
+    "block": "mysticalagriculture:nitro_crystal_crop"
+  },
+  "results": [
+    {
+      "item": "mysticalagriculture:nitro_crystal_essence"
+    },
+    {
+      "item": "mysticalagriculture:fertilized_essence"
+    },
+    {
+      "item": "mysticalagriculture:nitro_crystal_seeds"
+    }
+  ],
+  "soil": {
+    "item": "mysticalagradditions:insanium_farmland"
+  },
+  "time": 480
+}

@@ -1,0 +1,25 @@
+{
+  "type": "immersiveengineering:cloche",
+  "input": {
+    "item": "mysticalagriculture:emerald_seeds"
+  },
+  "render": {
+    "type": "immersiveengineering:generic",
+    "block": "mysticalagriculture:emerald_crop"
+  },
+  "results": [
+    {
+      "item": "mysticalagriculture:emerald_essence"
+    },
+    {
+      "item": "mysticalagriculture:fertilized_essence"
+    },
+    {
+      "item": "mysticalagriculture:emerald_seeds"
+    }
+  ],
+  "soil": {
+    "item": "mysticalagriculture:supremium_farmland"
+  },
+  "time": 480
+}

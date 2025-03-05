@@ -1,0 +1,25 @@
+{
+  "type": "immersiveengineering:cloche",
+  "input": {
+    "item": "mysticalagriculture:soulium_seeds"
+  },
+  "render": {
+    "type": "immersiveengineering:generic",
+    "block": "mysticalagriculture:soulium_crop"
+  },
+  "results": [
+    {
+      "item": "mysticalagriculture:soulium_essence"
+    },
+    {
+      "item": "mysticalagriculture:fertilized_essence"
+    },
+    {
+      "item": "mysticalagriculture:soulium_seeds"
+    }
+  ],
+  "soil": {
+    "item": "mysticalagriculture:imperium_farmland"
+  },
+  "time": 480
+}

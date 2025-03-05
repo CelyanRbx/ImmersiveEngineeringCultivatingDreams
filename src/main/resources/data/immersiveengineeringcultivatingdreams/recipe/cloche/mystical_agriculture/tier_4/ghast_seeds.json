@@ -1,0 +1,25 @@
+{
+  "type": "immersiveengineering:cloche",
+  "input": {
+    "item": "mysticalagriculture:ghast_seeds"
+  },
+  "render": {
+    "type": "immersiveengineering:generic",
+    "block": "mysticalagriculture:ghast_crop"
+  },
+  "results": [
+    {
+      "item": "mysticalagriculture:ghast_essence"
+    },
+    {
+      "item": "mysticalagriculture:fertilized_essence"
+    },
+    {
+      "item": "mysticalagriculture:ghast_seeds"
+    }
+  ],
+  "soil": {
+    "item": "mysticalagriculture:imperium_farmland"
+  },
+  "time": 480
+}

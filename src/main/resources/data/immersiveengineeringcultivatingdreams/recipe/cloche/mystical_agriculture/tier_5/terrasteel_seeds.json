@@ -1,0 +1,25 @@
+{
+  "type": "immersiveengineering:cloche",
+  "input": {
+    "item": "mysticalagriculture:terrasteel_seeds"
+  },
+  "render": {
+    "type": "immersiveengineering:generic",
+    "block": "mysticalagriculture:terrasteel_crop"
+  },
+  "results": [
+    {
+      "item": "mysticalagriculture:terrasteel_essence"
+    },
+    {
+      "item": "mysticalagriculture:fertilized_essence"
+    },
+    {
+      "item": "mysticalagriculture:terrasteel_seeds"
+    }
+  ],
+  "soil": {
+    "item": "mysticalagriculture:supremium_farmland"
+  },
+  "time": 480
+}

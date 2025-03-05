@@ -1,0 +1,19 @@
+{
+  "type": "immersiveengineering:cloche",
+  "input": {
+    "item": "minecraft:ender_pearl"
+  },
+  "render": {
+    "type": "immersiveengineering:generic",
+    "block": "immersiveengineeringcultivatingdreams:ender_pearl_block"
+  },
+  "results": [
+    {
+      "item": "minecraft:ender_pearl"
+    }
+  ],
+  "soil": {
+    "item": "immersiveengineeringcultivatingdreams:ender_pearl_block"
+  },
+  "time": 480
+}

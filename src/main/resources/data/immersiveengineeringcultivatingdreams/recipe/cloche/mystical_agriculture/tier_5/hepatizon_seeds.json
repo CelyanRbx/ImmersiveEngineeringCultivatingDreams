@@ -1,0 +1,25 @@
+{
+  "type": "immersiveengineering:cloche",
+  "input": {
+    "item": "mysticalagriculture:hepatizon_seeds"
+  },
+  "render": {
+    "type": "immersiveengineering:generic",
+    "block": "mysticalagriculture:hepatizon_crop"
+  },
+  "results": [
+    {
+      "item": "mysticalagriculture:hepatizon_essence"
+    },
+    {
+      "item": "mysticalagriculture:fertilized_essence"
+    },
+    {
+      "item": "mysticalagriculture:hepatizon_seeds"
+    }
+  ],
+  "soil": {
+    "item": "mysticalagriculture:supremium_farmland"
+  },
+  "time": 480
+}

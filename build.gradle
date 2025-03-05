@@ -160,6 +160,7 @@ dependencies {
     implementation "curse.maven:actually-additions-228404:6193603"
     implementation "curse.maven:just-dire-things-1002348:6161633"
     implementation "curse.maven:worldedit-225608:5830452"
+    implementation "curse.maven:curios-309927:6076118"
 
 
     // Example mod dependency using a mod jar from ./libs with a flat dir repository
